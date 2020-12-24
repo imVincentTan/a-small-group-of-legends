@@ -1,0 +1,1089 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8073 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Vincent/Desktop/project/a-small-group-of-legends/a small group of legends
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64962
+Successfully changed project path to: C:/Users/Vincent/Desktop/project/a-small-group-of-legends/a small group of legends
+C:/Users/Vincent/Desktop/project/a-small-group-of-legends/a small group of legends
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Vincent/Desktop/project/a-small-group-of-legends/a small group of legends/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     4036 MB
+    Driver:   22.20.16.4691
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002511 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.295 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.278 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.3 MB.
+System memory in use after: 56.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1533.
+Total: 4.882700 ms (FindLiveObjects: 0.506100 ms CreateObjectMapping: 0.323600 ms MarkObjects: 3.739600 ms  DeleteObjects: 0.310800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Folder
+  artifactKey: Guid(14e28838c79065647becb6aa1e4f30ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(14e28838c79065647becb6aa1e4f30ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fec240735e9bf1849225ef7d9fbdc3c') in 0.039110 seconds
+  Import took 0.055934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007526 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(f1d20840871ec754eaf59b9b96321d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(f1d20840871ec754eaf59b9b96321d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbf0d2f5b8f40d902acea5486e74d6d') in 0.015624 seconds
+  Import took 0.029990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.681143 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016640421bf54ce873cbc7b610fdb87c') in 0.027695 seconds
+  Import took 0.031842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.265091 seconds.
+  path: Assets/summoner rift 3d obj-1.zip
+  artifactKey: Guid(1d453373a1594694d9f1cecfe6019516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip using Guid(1d453373a1594694d9f1cecfe6019516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6cd8799204b6922fd3eab3ba42a6309') in 0.019925 seconds
+  Import took 0.026010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.184497 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_north_platform_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(2cbd31dd0e0336f45a2ac00da7359684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_north_platform_alpha_3dcuv_atlas_color.png using Guid(2cbd31dd0e0336f45a2ac00da7359684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ee744d622688b060f8661b3e7fbcec') in 0.183356 seconds
+  Import took 0.186903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_g_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(792a7350cc37fb74caf113d486cbfd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_g_alpha_3dcuv_atlas_color.png using Guid(792a7350cc37fb74caf113d486cbfd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a5632a58b4b2207b0425587ce112d54') in 0.048230 seconds
+  Import took 0.052426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_i_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(89b2822ad7159b34783f49d4edbbdd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_i_alpha_3dcuv_atlas_color.png using Guid(89b2822ad7159b34783f49d4edbbdd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0772fcb27c4b471ed93439ba51fb262') in 0.054277 seconds
+  Import took 0.058018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_c_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(4a2d6186e09dd424f9296db3c2a3e34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_c_alpha_3dcuv_atlas_color.png using Guid(4a2d6186e09dd424f9296db3c2a3e34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726d51be2eb891a4983b1bfa1a0ce0ae') in 0.055573 seconds
+  Import took 0.058618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(1f7ce584248aa5e40801e0990112c89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.png using Guid(1f7ce584248aa5e40801e0990112c89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228afe174a5271d46c0fe9496e9daca7') in 0.047645 seconds
+  Import took 0.050415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_b_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(b5bddae994bf2f9468b665ebea15ded2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_b_alpha_3dcuv_atlas_color.png using Guid(b5bddae994bf2f9468b665ebea15ded2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2273a65a6706d486964d9e87c831f8') in 0.047288 seconds
+  Import took 0.051528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002083 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(cd09359c93f15c54f9d18cfc2d0569e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.png using Guid(cd09359c93f15c54f9d18cfc2d0569e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81793b816d96b8084e87b6d7be847983') in 0.050679 seconds
+  Import took 0.053707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_a_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(68b3dc8c636ee604a8a3590bf65bd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_a_alpha_3dcuv_atlas_color.png using Guid(68b3dc8c636ee604a8a3590bf65bd67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6696deb1eacf41915ccab0ed1f6f4150') in 0.048342 seconds
+  Import took 0.051691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(306bfa123f36f614b9ce1a7f96407d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.png using Guid(306bfa123f36f614b9ce1a7f96407d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a011f8bc8b6082246868eac025d73f') in 0.049751 seconds
+  Import took 0.053085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_north_shop_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(7a01bc8549655c54e98260b539e4f1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_north_shop_alpha_3dcuv_atlas_color.png using Guid(7a01bc8549655c54e98260b539e4f1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5427432e1a10dc43596f46b41cc39d92') in 0.062009 seconds
+  Import took 0.065823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_d_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(b880cce9a1e2e064492a7970ec0aa30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_d_alpha_3dcuv_atlas_color.png using Guid(b880cce9a1e2e064492a7970ec0aa30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b013ea3528701a8055082631b26fe9ed') in 0.052193 seconds
+  Import took 0.057984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(ac3d2614f36fedf4fb25cce24c255852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.png using Guid(ac3d2614f36fedf4fb25cce24c255852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc17784e160c4fbd0b7af0302d29c14') in 0.057160 seconds
+  Import took 0.060871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_g_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(1959977eb49dba540804f45c26c28c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_g_alpha_3dcuv_atlas_color.png using Guid(1959977eb49dba540804f45c26c28c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7a929ddc5e84d2b2e13cb9e054195e') in 0.065036 seconds
+  Import took 0.069778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(6b4f7a7315fa6df41825e9cc2d2786d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.png using Guid(6b4f7a7315fa6df41825e9cc2d2786d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579e3e447fa95b6be8839fc079de1e3a') in 0.044065 seconds
+  Import took 0.049316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_f_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(32c360cc791bdb649a3db9b84850edc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_f_alpha_3dcuv_atlas_color.png using Guid(32c360cc791bdb649a3db9b84850edc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a671b5890de3f91744c6d0e7c12e16fc') in 0.051398 seconds
+  Import took 0.055309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(5d6676a843115fd4da17bf8ece779ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.png using Guid(5d6676a843115fd4da17bf8ece779ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68bc43ee1010d823919af99655925480') in 0.062497 seconds
+  Import took 0.066033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_h_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(ec90d9941cbf77448b44b94bf55d4b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_h_alpha_3dcuv_atlas_color.png using Guid(ec90d9941cbf77448b44b94bf55d4b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c74253631cde9bb9407b157fd292a55') in 0.049297 seconds
+  Import took 0.052138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_south_walls_c_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(8fd63b3f0f94de240b238ef293005ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_south_walls_c_alpha_3dcuv_atlas_color.png using Guid(8fd63b3f0f94de240b238ef293005ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d20686e519893378436a028656c8438') in 0.047416 seconds
+  Import took 0.050766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_b_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(983f3c100328bd341ac544ecedb36144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_b_alpha_3dcuv_atlas_color.png using Guid(983f3c100328bd341ac544ecedb36144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed09fe79563df638b330bd42b846814') in 0.047500 seconds
+  Import took 0.050559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_b_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(d49f567592edbc2458636d1fb3458e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_b_alpha_3dcuv_atlas_color.png using Guid(d49f567592edbc2458636d1fb3458e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f84275c8cc2f56c43ad41d9db7f0e5a') in 0.058819 seconds
+  Import took 0.061471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_e_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(59249344a4273d84b96358d58e673d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_e_alpha_3dcuv_atlas_color.png using Guid(59249344a4273d84b96358d58e673d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad095f0627daba248fafaed30aa6901') in 0.037535 seconds
+  Import took 0.040937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_south_walls_b_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(bc4d86ebe349e2f43bfdbfcda8eae339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_south_walls_b_alpha_3dcuv_atlas_color.png using Guid(bc4d86ebe349e2f43bfdbfcda8eae339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606d9ee22061917a63f888db8cfb077a') in 0.053781 seconds
+  Import took 0.059763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_c_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(206d82008937dfa479c16c38365fc9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_c_alpha_3dcuv_atlas_color.png using Guid(206d82008937dfa479c16c38365fc9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245fdd5f6cc0ddcb054c2bfdd9f01450') in 0.052907 seconds
+  Import took 0.055709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_h_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(f9f9050fd7dcf7044a8e446d16815688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_h_alpha_3dcuv_atlas_color.png using Guid(f9f9050fd7dcf7044a8e446d16815688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f152128ab528a3363b15802a0d4659') in 0.059204 seconds
+  Import took 0.065672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_e_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(0c496684de946434e8e57f44cf2f84f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_e_alpha_3dcuv_atlas_color.png using Guid(0c496684de946434e8e57f44cf2f84f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ba5c2ff8133c6625076bbc67184b57') in 0.059537 seconds
+  Import took 0.063037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(a3b124ba0ed70cb4fbb0c10b35bd1e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.png using Guid(a3b124ba0ed70cb4fbb0c10b35bd1e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2eeaca35ad82102076b799b1975f981') in 0.046097 seconds
+  Import took 0.049784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001155 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(f1c2e38cce89bad4584f1fa28b9347ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.png using Guid(f1c2e38cce89bad4584f1fa28b9347ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bea3b14449ad5d97b08d1cdf95bad04') in 0.046326 seconds
+  Import took 0.049833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_i_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(d1899941d6bf8994e95cdbed99efeb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_i_alpha_3dcuv_atlas_color.png using Guid(d1899941d6bf8994e95cdbed99efeb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13736dca6f3c868e6cf8e6ba2cabc22') in 0.113898 seconds
+  Import took 0.117385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_f_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(c6429bc2e2543b044a675feb684d574e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_f_alpha_3dcuv_atlas_color.png using Guid(c6429bc2e2543b044a675feb684d574e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd54676a7692108512770636965f946a') in 0.132321 seconds
+  Import took 0.139341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_b_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(4f06225e2606d6140b37faef5f519209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_b_alpha_3dcuv_atlas_color.png using Guid(4f06225e2606d6140b37faef5f519209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcda3b42f3c1f9f61bb748a3d042cbf') in 0.054873 seconds
+  Import took 0.059847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_c_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(b1e05a84cc158374993493e598b9273e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_east_island_c_alpha_3dcuv_atlas_color.png using Guid(b1e05a84cc158374993493e598b9273e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d04e149e496d6d48e9b2975944be064') in 0.059309 seconds
+  Import took 0.063255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_j_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(5511215b2cf094a4f90cbd7d5e7d748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_j_alpha_3dcuv_atlas_color.png using Guid(5511215b2cf094a4f90cbd7d5e7d748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9cb17a10b2e9929e841d19faf78856e') in 0.068269 seconds
+  Import took 0.075944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_h_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(bc1f3028bf4db58468f5fc0803dbd42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_h_alpha_3dcuv_atlas_color.png using Guid(bc1f3028bf4db58468f5fc0803dbd42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6175277b0d8baf96cf223290afbfca2c') in 0.050189 seconds
+  Import took 0.054681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(b41b4e243f1866545975b373d090d42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.png using Guid(b41b4e243f1866545975b373d090d42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16dbd44d62c8a55b82e9c3766f4cc9f') in 0.038505 seconds
+  Import took 0.044802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_g_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(b787c0c432c9c534797d3a674ff5d591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_base_north_walls_g_alpha_3dcuv_atlas_color.png using Guid(b787c0c432c9c534797d3a674ff5d591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2ab81dbf2790bf76220e0c4763b03c') in 0.050976 seconds
+  Import took 0.055577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_f_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(f789cf11fe61bdf48b53950b526bbb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_f_alpha_3dcuv_atlas_color.png using Guid(f789cf11fe61bdf48b53950b526bbb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9430a2a36e64b07fc4c8b9d99f4fda9a') in 0.049926 seconds
+  Import took 0.052273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_l_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(967be9cecb2623e42bd62fb7a0f180bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_south_island_l_alpha_3dcuv_atlas_color.png using Guid(967be9cecb2623e42bd62fb7a0f180bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd208563dd5d2402469b4360b008d7d3') in 0.066058 seconds
+  Import took 0.077950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_h_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(afbdda8359283bc43b2945538c9e5b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_h_alpha_3dcuv_atlas_color.png using Guid(afbdda8359283bc43b2945538c9e5b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea41be39553751581c1c2704cc6bbfe') in 0.063589 seconds
+  Import took 0.068065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_e_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(63810792df0ccbd4aa9e0064d499ba9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_e_alpha_3dcuv_atlas_color.png using Guid(63810792df0ccbd4aa9e0064d499ba9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7927f00ba0c666a830d978634a17d9fd') in 0.051460 seconds
+  Import took 0.054713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_g_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(dd6329b200ca02b4a9b1290a4ad5ee3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_g_alpha_3dcuv_atlas_color.png using Guid(dd6329b200ca02b4a9b1290a4ad5ee3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367d6c79a6c2d7bf721be0ec54cb8091') in 0.126960 seconds
+  Import took 0.139637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_i_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(179afad1affd56b4e8e7efff408bc34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_i_alpha_3dcuv_atlas_color.png using Guid(179afad1affd56b4e8e7efff408bc34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f31390a5e4c68d629f2d9d022a8b01') in 0.101578 seconds
+  Import took 0.105615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_b_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(9f39d17e6ca42de47ae7fee5be72f2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_b_alpha_3dcuv_atlas_color.png using Guid(9f39d17e6ca42de47ae7fee5be72f2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb14be227a3656357b20964b19e68162') in 0.098346 seconds
+  Import took 0.101421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_k.png
+  artifactKey: Guid(5750ecec0a0460b4bb63bfc68ad9f0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_k.png using Guid(5750ecec0a0460b4bb63bfc68ad9f0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5980e5996b60dea6562e31662074cdb') in 0.037906 seconds
+  Import took 0.040777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_o.png
+  artifactKey: Guid(184873f2446944e4fb25d217fb06fb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_o.png using Guid(184873f2446944e4fb25d217fb06fb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38ede86b6cad57e18ea445b6eaae66d') in 0.041049 seconds
+  Import took 0.045533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001192 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_j.png
+  artifactKey: Guid(5b04917724a36724daf41d07ea37870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_j.png using Guid(5b04917724a36724daf41d07ea37870a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19433247bac2033b5adf9e88b291276') in 0.040636 seconds
+  Import took 0.047211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001224 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/bk_distant_horizon_a.png
+  artifactKey: Guid(c2b3d47a37538e340ba93eb9ab3090bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/bk_distant_horizon_a.png using Guid(c2b3d47a37538e340ba93eb9ab3090bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7557ab6d9e75db8e6d0ff8922517efe') in 0.039616 seconds
+  Import took 0.052506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_h.png
+  artifactKey: Guid(45ca0704cef6f0a43b119a31111f34fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_h.png using Guid(45ca0704cef6f0a43b119a31111f34fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f339bd19c696d0011acf96089211de74') in 0.042573 seconds
+  Import took 0.048262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_d.png
+  artifactKey: Guid(fa205c856d2f8ac49afaa9626c730773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_d.png using Guid(fa205c856d2f8ac49afaa9626c730773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1777d34f734f1779c64595f97b006773') in 0.041035 seconds
+  Import took 0.044496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_m.png
+  artifactKey: Guid(ec1f9d4556ffb7e4b87621819fde57ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_m.png using Guid(ec1f9d4556ffb7e4b87621819fde57ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435fe11bd8844af2219996ffe722a4e9') in 0.039589 seconds
+  Import took 0.042956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/base_north_arches_periph.png
+  artifactKey: Guid(4f61be66d7a4f7b409bdbbda467a0131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/base_north_arches_periph.png using Guid(4f61be66d7a4f7b409bdbbda467a0131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab523a8c31cb0225462e021e1473ec96') in 0.060153 seconds
+  Import took 0.063668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_w.png
+  artifactKey: Guid(33ca4b6a45403e6439eab56e353268c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_w.png using Guid(33ca4b6a45403e6439eab56e353268c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5384e79eb311b665e7609920528de287') in 0.038069 seconds
+  Import took 0.042205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/jungle_north_island_fa.png
+  artifactKey: Guid(1b248d015a2be7a4ea981466647427ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/jungle_north_island_fa.png using Guid(1b248d015a2be7a4ea981466647427ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f132b4ab798bb50d38f25c3d2694c6a') in 0.051211 seconds
+  Import took 0.057271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_u.png
+  artifactKey: Guid(303773ca480c6054c8e397f33084eaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_u.png using Guid(303773ca480c6054c8e397f33084eaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c00986f149d9b76d5125848e3b8d303') in 0.051351 seconds
+  Import took 0.054806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_y.png
+  artifactKey: Guid(2d6951c1dd10c4e4ca1dfac0d0e35e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_y.png using Guid(2d6951c1dd10c4e4ca1dfac0d0e35e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ea8427004d54b3b517648f1b1b8bc7') in 0.045325 seconds
+  Import took 0.048406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_a.png
+  artifactKey: Guid(24025fce673c7fc4c857ca262c2795f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_a.png using Guid(24025fce673c7fc4c857ca262c2795f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155618e2bc6a43d6ffad3323b7e229ed') in 0.051400 seconds
+  Import took 0.054328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_base_b.png
+  artifactKey: Guid(18583d0de61486b4594ef4f16c1c0244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_base_b.png using Guid(18583d0de61486b4594ef4f16c1c0244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3081a2bb48d66b948f4e9512134e20e') in 0.049152 seconds
+  Import took 0.055368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/pally_platform.png
+  artifactKey: Guid(b03d42e1bb760634087cdd0b1a281faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/pally_platform.png using Guid(b03d42e1bb760634087cdd0b1a281faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eda75c4e494c87b03ec1657ac719ba') in 0.047391 seconds
+  Import took 0.050274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/jungle_north_island_fb.png
+  artifactKey: Guid(ce1322cf3fd32dc4e89444a139415096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/jungle_north_island_fb.png using Guid(ce1322cf3fd32dc4e89444a139415096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7003bd901c354f1df2bbd0454dee6981') in 0.037888 seconds
+  Import took 0.040748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/base_north_arches_periph.png
+  artifactKey: Guid(4f61be66d7a4f7b409bdbbda467a0131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/base_north_arches_periph.png using Guid(4f61be66d7a4f7b409bdbbda467a0131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab523a8c31cb0225462e021e1473ec96') in 0.026081 seconds
+  Import took 0.029374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_g.png
+  artifactKey: Guid(d623fc7fceda84e40b83f5a1922e60b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_g.png using Guid(d623fc7fceda84e40b83f5a1922e60b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be45c4048de7df1f94292e6e72968a3') in 0.071279 seconds
+  Import took 0.077410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_d.png
+  artifactKey: Guid(cf716fd944b19054bbfb17af911fed8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_d.png using Guid(cf716fd944b19054bbfb17af911fed8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c375be1b72f4d5b5319523d49861acdd') in 0.040543 seconds
+  Import took 0.044301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/mage_spawn_pad_b.png
+  artifactKey: Guid(4374544ed8ccad549b852ce49a8ac754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/mage_spawn_pad_b.png using Guid(4374544ed8ccad549b852ce49a8ac754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3e467b78e6ec137aa81a6b58eab999') in 0.052387 seconds
+  Import took 0.055563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_e.png
+  artifactKey: Guid(1da0d48a51d28fb429bfbe6add1b8820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_e.png using Guid(1da0d48a51d28fb429bfbe6add1b8820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee90fb67832a5b189c77dc2c8decd1c1') in 0.038019 seconds
+  Import took 0.040737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_south_e1.png
+  artifactKey: Guid(87fee6a62c471e149b9456cda5edd6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_south_e1.png using Guid(87fee6a62c471e149b9456cda5edd6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5b884336a13381ee17227e08824b7c') in 0.046105 seconds
+  Import took 0.048759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_c.png
+  artifactKey: Guid(abbb1005092a8164c808cf5210ebcc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_c.png using Guid(abbb1005092a8164c808cf5210ebcc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5364d5218c8abd7121796f269e9a07b') in 0.038077 seconds
+  Import took 0.043222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_east_c.png
+  artifactKey: Guid(c6cfe3f109d39404f9701ac8f6d7ed49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_east_c.png using Guid(c6cfe3f109d39404f9701ac8f6d7ed49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '944df302d208a707e17b98902d698220') in 0.047906 seconds
+  Import took 0.050933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/base_south_foliage.png
+  artifactKey: Guid(088f08fe2aa09e048a37067b99d892b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/base_south_foliage.png using Guid(088f08fe2aa09e048a37067b99d892b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a263612a534ce00a27af50d26d59533f') in 0.049384 seconds
+  Import took 0.051969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_east_g.png
+  artifactKey: Guid(a1b96ac0ed762c248b402a18793a6123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_east_g.png using Guid(a1b96ac0ed762c248b402a18793a6123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11344d765085b16212984cf39c790f0') in 0.046746 seconds
+  Import took 0.049698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_east_d2.png
+  artifactKey: Guid(763dc01f88a89e647891505eba0cf734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_east_d2.png using Guid(763dc01f88a89e647891505eba0cf734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9221d9c3c8e94f7b4b04be60548eea') in 0.044875 seconds
+  Import took 0.052037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/south_island_f_dragonpita.png
+  artifactKey: Guid(9e06d6bd6db7fe841ace315655c0843c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/south_island_f_dragonpita.png using Guid(9e06d6bd6db7fe841ace315655c0843c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b472747074a92fcfff7deb7b972319') in 0.047015 seconds
+  Import took 0.052324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/south_platform_periph_coll.png
+  artifactKey: Guid(89207afa08f728d488a6297146c07802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/south_platform_periph_coll.png using Guid(89207afa08f728d488a6297146c07802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4968d87793701a581f7c987a3a79ffd') in 0.059313 seconds
+  Import took 0.066653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_west_e.png
+  artifactKey: Guid(7689471aa1597da4f8ea34442475e5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_west_e.png using Guid(7689471aa1597da4f8ea34442475e5fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2db6ff6413959899e37c0a88ef10e42') in 0.043818 seconds
+  Import took 0.050174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/paly_south_base_edge_wall_right_a1.png
+  artifactKey: Guid(f4e43ee053e3e5e45a30b70bcbc1078a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/paly_south_base_edge_wall_right_a1.png using Guid(f4e43ee053e3e5e45a30b70bcbc1078a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6219d7aa75f3ba605dbac3a4770b4597') in 0.052304 seconds
+  Import took 0.058909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_a.png
+  artifactKey: Guid(84eca7c2c400fd64fbf7bf5f8ec561eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_a.png using Guid(84eca7c2c400fd64fbf7bf5f8ec561eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9682f526702c470e3447b4ef83ffe2') in 0.046773 seconds
+  Import took 0.049998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_west_d3.png
+  artifactKey: Guid(38833b6a15876c54685f25d9fc9d1531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_west_d3.png using Guid(38833b6a15876c54685f25d9fc9d1531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a831b4e59502e0be5f55c310148098e9') in 0.053590 seconds
+  Import took 0.056427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_f.png
+  artifactKey: Guid(d2ae79e71296db2478cb32839a79443f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_f.png using Guid(d2ae79e71296db2478cb32839a79443f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b97e5a261978a0633af9e3c1c81c32') in 0.043855 seconds
+  Import took 0.048902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_l.png
+  artifactKey: Guid(d61ee33fccb565b4388e264182df0653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_l.png using Guid(d61ee33fccb565b4388e264182df0653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c6b1f11fe8931d570b3f0f0ee3e39a') in 0.028645 seconds
+  Import took 0.030996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.obj
+  artifactKey: Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.obj using Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f057c38f4f7d8491440f2e70861b5e6') in 15.521812 seconds
+  Import took 15.596383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002968 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.mtl
+  artifactKey: Guid(45a459c536d8c9e43a74938925738e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.mtl using Guid(45a459c536d8c9e43a74938925738e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab6e6e62338c3c167f6a1ff92605c11') in 0.156844 seconds
+  Import took 0.162257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_v.png
+  artifactKey: Guid(ba678dd239214bd4d8120c2e594836bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_v.png using Guid(ba678dd239214bd4d8120c2e594836bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d42400ef4a6d221c906d12f232f6139') in 0.070418 seconds
+  Import took 0.077958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_k_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(748d9df725fbe674e97a0cbec859ace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_k_alpha_3dcuv_atlas_color.png using Guid(748d9df725fbe674e97a0cbec859ace9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1fdc13d622d05d676071cea57ccdea0') in 0.057190 seconds
+  Import took 0.158095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000961 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_east_c1.png
+  artifactKey: Guid(de3df25cad9e6174487454f0f43cb0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_east_c1.png using Guid(de3df25cad9e6174487454f0f43cb0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777eb19b4344b97545b13657b267674c') in 0.130630 seconds
+  Import took 0.147333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/jungle_east_island_a.png
+  artifactKey: Guid(0e26c7850198f4c46b79ad57e93c2b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/jungle_east_island_a.png using Guid(0e26c7850198f4c46b79ad57e93c2b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78dba958ca46b1f86b5bfa342afd83dc') in 0.079540 seconds
+  Import took 0.089581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_southeast_d2.png
+  artifactKey: Guid(7e844a0ccedfb974181caaa787cbed19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_southeast_d2.png using Guid(7e844a0ccedfb974181caaa787cbed19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bac103401f480110a2d261f6b253eaa') in 0.075793 seconds
+  Import took 0.079988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_r.png
+  artifactKey: Guid(7ae109a1cf4220d4695254cf6395dddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_r.png using Guid(7ae109a1cf4220d4695254cf6395dddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9efe9b2e7744992bd8ee0562febefa2e') in 0.104347 seconds
+  Import took 0.109141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_g.png
+  artifactKey: Guid(3b2485aa90e4b8b41997c825fa706020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_g.png using Guid(3b2485aa90e4b8b41997c825fa706020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f5186c8ecf87bb5ab689e7dddce94c2') in 0.197250 seconds
+  Import took 0.206394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_j1.png
+  artifactKey: Guid(42f4e7a3056503b41ade33d67835c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_j1.png using Guid(42f4e7a3056503b41ade33d67835c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5316e2dcfbfdd5d14335cd61691d4e5a') in 0.094760 seconds
+  Import took 0.112374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_west_c4.png
+  artifactKey: Guid(8e24fd0e4bcce18428d0de5945c4aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_west_c4.png using Guid(8e24fd0e4bcce18428d0de5945c4aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c939c15cccdae637812dcfc726d38ef') in 0.165612 seconds
+  Import took 0.171704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/south_island_f_dragonpitb.png
+  artifactKey: Guid(667744b6126204f48be3bfc6351a17e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/south_island_f_dragonpitb.png using Guid(667744b6126204f48be3bfc6351a17e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fd97c100dca907568a08e4a4b6b91a') in 0.075418 seconds
+  Import took 0.082354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_south_g_combined2.png
+  artifactKey: Guid(c555cda7877841a4fa27066e0f66e84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_south_g_combined2.png using Guid(c555cda7877841a4fa27066e0f66e84e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9424b2a36aa23844f122c801dc08dd4') in 0.090006 seconds
+  Import took 0.093908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_m.png
+  artifactKey: Guid(429f6a7116272644c817ddd37dd69efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_m.png using Guid(429f6a7116272644c817ddd37dd69efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fe268d52df89b246039a8a57078b68') in 0.050939 seconds
+  Import took 0.055114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_p.png
+  artifactKey: Guid(ce0bb791f47507c409e82554f86de33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_p.png using Guid(ce0bb791f47507c409e82554f86de33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02cecdebbc93c129af58e9920070957') in 0.043050 seconds
+  Import took 0.046744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_southeast_a1.png
+  artifactKey: Guid(b7ed51f9314fc1f4a9b527208a755a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_southeast_a1.png using Guid(b7ed51f9314fc1f4a9b527208a755a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d945e75ad687e1abb52207693e11ad7') in 0.056632 seconds
+  Import took 0.061570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_southeast_c3.png
+  artifactKey: Guid(8efc7aee8f3486a49b9b3e6bf8cc4091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_southeast_c3.png using Guid(8efc7aee8f3486a49b9b3e6bf8cc4091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf63221597cc1f7e9210658f91b0846a') in 0.050679 seconds
+  Import took 0.053616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_k.png
+  artifactKey: Guid(7c491f2048888a248a9810af02c3f67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_k.png using Guid(7c491f2048888a248a9810af02c3f67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437c4fb941927d47f443478b12715fef') in 0.059405 seconds
+  Import took 0.062010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_s.png
+  artifactKey: Guid(4f3c6fa981dbc8746adc83962279680d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_s.png using Guid(4f3c6fa981dbc8746adc83962279680d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308ebd086b737423582947d274e4927f') in 0.044076 seconds
+  Import took 0.048272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_base_south_west_a.png
+  artifactKey: Guid(d9321731083e09340b6096c1a9ad2831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_base_south_west_a.png using Guid(d9321731083e09340b6096c1a9ad2831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd12f38b4ae28858db8f1a1bbc8756c20') in 0.057319 seconds
+  Import took 0.060764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_n.png
+  artifactKey: Guid(0f49954c7a8b2cb418e0cb5864c8d417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_n.png using Guid(0f49954c7a8b2cb418e0cb5864c8d417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7b3196c39b790855c8f13f048a2e39') in 0.051466 seconds
+  Import took 0.055185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_x.png
+  artifactKey: Guid(8a9cb49d8ac7db941be929277a2848d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_x.png using Guid(8a9cb49d8ac7db941be929277a2848d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1137e6e04f53365f9840157ce310497b') in 0.057906 seconds
+  Import took 0.060697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/jungle_west_island_a.png
+  artifactKey: Guid(231feaee5ee8ee64d92350e5ee764680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/jungle_west_island_a.png using Guid(231feaee5ee8ee64d92350e5ee764680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1065ac22c94eae42bdceef39cbc60a0b') in 0.058753 seconds
+  Import took 0.064849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_west_a4.png
+  artifactKey: Guid(cc311d8b9fef5ae40a1fe06cdb06da25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_west_a4.png using Guid(cc311d8b9fef5ae40a1fe06cdb06da25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f386a7f2fa94cf04d669e9f954b26c56') in 0.143995 seconds
+  Import took 0.148571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_southeast_eb.png
+  artifactKey: Guid(1a51ed498f130bd4296e422b0ce9485e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_southeast_eb.png using Guid(1a51ed498f130bd4296e422b0ce9485e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b501070becc0384ad8d41ff636d2c780') in 0.069057 seconds
+  Import took 0.113843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_b.png
+  artifactKey: Guid(52bd057e27edc484da1fc89ffc32bb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_b.png using Guid(52bd057e27edc484da1fc89ffc32bb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a63ca45bcdffefc8e8c9c2a4fb2093') in 0.059758 seconds
+  Import took 0.064434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_south_f1.png
+  artifactKey: Guid(55f2d09568c555545ab87ff490e0b258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_south_f1.png using Guid(55f2d09568c555545ab87ff490e0b258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffc886e386331710d935778daa339ba') in 0.057241 seconds
+  Import took 0.062900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_q.png
+  artifactKey: Guid(c6d210a8d024ffe44ba430fc48db64e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_q.png using Guid(c6d210a8d024ffe44ba430fc48db64e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9b30cfb63fa3c07e724a006ca72fad') in 0.045028 seconds
+  Import took 0.050147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_east_b1.png
+  artifactKey: Guid(18ed4de6cf9fbd04f94a626992a64480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_east_b1.png using Guid(18ed4de6cf9fbd04f94a626992a64480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3cf12d74579cd5c67193e1ea77175cb') in 0.055707 seconds
+  Import took 0.059608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_north_l.png
+  artifactKey: Guid(b1224a8fd7e269e4abfa2932b666329f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_north_l.png using Guid(b1224a8fd7e269e4abfa2932b666329f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fd74da39d38fecd05fb91db41d2979') in 0.053872 seconds
+  Import took 0.056945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_t.png
+  artifactKey: Guid(c5045b4e73038d548b69b05d14f46709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_t.png using Guid(c5045b4e73038d548b69b05d14f46709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6ff6d1bd033d93362524599c21390e') in 0.052608 seconds
+  Import took 0.056386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_east_a1.png
+  artifactKey: Guid(1eeaedc330d8d744dbc1d46e459208e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_east_a1.png using Guid(1eeaedc330d8d744dbc1d46e459208e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e1c0f77f6dca5f432188ad091d0544') in 0.054184 seconds
+  Import took 0.056945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/periph_south_walls_f.png
+  artifactKey: Guid(1d90e830d8cc38a41a786e8db1c7a27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/periph_south_walls_f.png using Guid(1d90e830d8cc38a41a786e8db1c7a27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73d57ff93470f91a6127d66ac44365d') in 0.053719 seconds
+  Import took 0.057584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(5be70ecb77fd30d489addc36672e2d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.png using Guid(5be70ecb77fd30d489addc36672e2d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a565702529fb2c731277d065bc5e23') in 0.057770 seconds
+  Import took 0.060395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_a_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(3db2b72120ec1bb41997a4712d1620f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_north_island_a_alpha_3dcuv_atlas_color.png using Guid(3db2b72120ec1bb41997a4712d1620f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f608b7f29cdb872adf176eca0fdd11d') in 0.048352 seconds
+  Import took 0.052676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/grnd_terrain_i.png
+  artifactKey: Guid(40aa10ac734b7fa439988473a8f28043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/grnd_terrain_i.png using Guid(40aa10ac734b7fa439988473a8f28043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a6a21c8f84f093e83cbe09197baaee') in 0.117844 seconds
+  Import took 0.122977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/pally_base_side_walls_bot1.png
+  artifactKey: Guid(bcdf21dc71e2ada43a0840b199590581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/pally_base_side_walls_bot1.png using Guid(bcdf21dc71e2ada43a0840b199590581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87071cabc91914d53b4ede5b5e268b86') in 0.089277 seconds
+  Import took 0.093818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_c_alpha_3dcuv_atlas_color.png
+  artifactKey: Guid(d13a9c87b83d2824aa93499ddaa8ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/_chunk_jungle_west_island_c_alpha_3dcuv_atlas_color.png using Guid(d13a9c87b83d2824aa93499ddaa8ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4c266c61a00d4d2dbab3aa293e4b02') in 0.054903 seconds
+  Import took 0.061107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 494.770171 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.obj
+  artifactKey: Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.obj using Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16a085f84187ac2814cfa0558e5cd09') in 9.061440 seconds
+  Import took 9.128944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.519932 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.obj
+  artifactKey: Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.obj using Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae8cdcfface0675b3019296a6eeaffd') in 7.052317 seconds
+  Import took 7.111614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 749.278446 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.obj
+  artifactKey: Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.obj using Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8925493672c56ea225afb82896f7734b') in 14.383220 seconds
+  Import took 14.550070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 675.105037 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.obj
+  artifactKey: Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.obj using Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45756a0af784e4de598b4285a05761b') in 11.682228 seconds
+  Import took 11.769773 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.632 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.5 MB.
+System memory in use after: 63.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 3.638200 ms (FindLiveObjects: 0.300000 ms CreateObjectMapping: 0.107600 ms MarkObjects: 3.150100 ms  DeleteObjects: 0.071900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 634.356063 seconds.
+  path: Assets/summoner rift 3d obj-1.zip/summoner_rift.obj
+  artifactKey: Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/summoner rift 3d obj-1.zip/summoner_rift.obj using Guid(d3e8828855bc3b943acb439a9e5e9d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b674a03d8751c3c7b41d79493f265d84') in 10.724962 seconds
+  Import took 10.838812 seconds .
+
